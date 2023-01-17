@@ -1,1 +1,1 @@
-Debug.log("Auth System");
+Debug.log("Auth system");
